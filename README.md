@@ -6,7 +6,7 @@ It supports plain text, PDF, and Microsoft Word (.docx) files and presents the r
 
 ---
 
-## ✨ Features
+##  Features
 
 - Text analysis using Natural Language Processing (NLP)
 - Upload and analyze **PDF** and **Word (.docx)** documents
@@ -19,7 +19,7 @@ It supports plain text, PDF, and Microsoft Word (.docx) files and presents the r
 
 ---
 
-## 🧠 Technology Stack
+##  Technology Stack
 
 ### Frontend
 - React (Vite)
@@ -35,9 +35,9 @@ It supports plain text, PDF, and Microsoft Word (.docx) files and presents the r
 
 ---
 
-## 🚀 How to Run the Project
+##  How to Run the Project
 
-### 1️⃣ Backend (FastAPI)
+### Backend (FastAPI)
 
 ```bash
 cd backend
@@ -53,7 +53,7 @@ Interactive API docs:
 
 ---
 
-### 2️⃣ Frontend (React)
+###  Frontend (React)
 
 ```bash
 cd frontend
@@ -66,7 +66,7 @@ The application will run at:
 
 ---
 
-## 📄 Supported Input Types
+##  Supported Input Types
 
 * Plain text
 * PDF files (`.pdf`)
