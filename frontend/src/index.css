@@ -1,0 +1,25 @@
+@import "tailwindcss";
+
+/* Remove scrollbar but keep scroll functionality */
+::-webkit-scrollbar {
+  width: 0px;
+  height: 0px;
+}
+
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  background: transparent;
+}
+
+/* Firefox */
+* {
+  scrollbar-width: none;
+}
+
+/* Prevent horizontal scroll */
+html, body {
+  overflow-x: hidden;
+}
